@@ -1,0 +1,21 @@
+comment,sentiment
+"J'adore ce produit, il a vraiment changé ma vie!",1
+"Je suis très déçu par la qualité de ce service.",0
+"Excellent rapport qualité-prix, je recommande vivement.",1
+"Le produit est arrivé en retard et endommagé.",0
+"Service client très réactif et sympathique.",1
+"Je ne reviendrai plus jamais, c'était une mauvaise expérience.",0
+"Livraison rapide et produit conforme à la description.",1
+"Le support technique n'a pas résolu mon problème.",0
+"Très satisfait de mon achat, merci beaucoup!",1
+"Produit défectueux, je souhaite un remboursement.",0
+"Je suis enchanté par la performance de ce logiciel.",1
+"La mise à jour a causé plusieurs bugs, c'est frustrant.",0
+"Le design est élégant et moderne, j'adore.",1
+"Je trouve ce service trop cher pour ce qu'il offre.",0
+"Facile à utiliser et très efficace, parfait pour mes besoins.",1
+"Le processus de retour est compliqué et lent.",0
+"J'ai reçu un excellent support après-vente.",1
+"Le produit ne correspond pas à la description fournie.",0
+"Installation simple et rapide, très bon produit.",1
+"Je suis mécontent de la durabilité de ce produit.",0
